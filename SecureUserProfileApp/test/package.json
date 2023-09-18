@@ -1,0 +1,19 @@
+{
+  "name": "secure-user-profile-app",
+  "version": "1.0.0",
+  "description": "A blockchain-based app that ensures data integrity, identity verification, secure transactions, tokenization, training data integrity, reward system, decentralized decision making, and a reward and recognition system.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "arbitrum": "^0.5.2",
+    "solidity": "^0.8.4",
+    "truffle": "^5.3.6"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
